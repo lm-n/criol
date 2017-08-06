@@ -44,7 +44,7 @@ function myFunction() {
     }
     thetlontext = thetlontextor.replace(/[’]/g,"\'");
     
-    document.getElementById("tlonizedeng").innerHTML = "Texto en neocriollo:";
+    document.getElementById("tlonizedeng").innerHTML = "Texto en criol:";
     document.getElementById("demo").innerHTML = "Traduciendo...";
     replacef();
 }
