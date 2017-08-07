@@ -1,0 +1,10 @@
+# criol
+a translator from Spanish to Xul Solar's Criol
+
+Traductor a criol is a translator based on some of Xul Solar's rules for Criol or Neocriollo. Criol is a language created by Solar, in which he mixes Spanish and Portuguese with rules from English and Guarani. This translator is based on the glossary of Apuntes de neocriollo by Xul Solar.
+
+You can access the translator here: http://criol.lm-n.xyz
+
+Solar was an antidisciplinary artist-intellectual-inventor —described by Jorge Luis Borges as “versed in all disciplines, curious of all mysteries, the father of writings, of languages, of mythologies”— that deeply influenced Borges, Macedonio Fernandez and their contemporaries. In the essay Idioma Infinito Borges calls for a poetics of writing dedicated to Solar and inspired by Solar’s work where the writer understands that “language is barely sketched”  and where it is the duty of all writers to “multiple it and vary it.”  For Solar language was limited and had to be transformed and constantly re-invented. In Conference About Alejandro Xul Solar Borges recalls his friend’s genius saying “Xul believed that Creation didn’t happen once in the book of Genesis, but that, Creation continued continuously.”  In his constant process of creation Solar made two language systems el criol or el neocriollo, a mashup of the languages of the Americas, and la panlengua which Borges described as “a universal language similar to those that Descartes and Wilkins dreamt of: a language in which each word would be its own definition.”
+
+Solar was a technology enthusiast that believed in the reconciliation of technology with creative intuition, and in the possibility of transforming “the age of machines into an age of poetics by seizing the lyrical opportunities inherent in all technologies” in order to increase human potential. This, he argued, would allow for the distinction between poetic and scientific language to be “abolished.” With this in mind it was then only natural to use regular expressions to create a machine translator from Spanish to Criol.
